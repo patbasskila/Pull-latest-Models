@@ -1,1 +1,3 @@
 
+
+- [https://github.com/patbasskila/Pull-latest-Models](https://github.com/patbasskila/Pull-latest-Models): The code defines three functions related to managing machine learning models using an API from Ollama. The first function, `download_model`, downloads a specific version of a model and saves it in a specified directory. The second function, `is_latest_version_installed`, checks if the latest version of a specific model is already installed in a specified directory. The third function, `get_latest_release_info`, fetches the latest release information of a specific model from Ollama's API.
